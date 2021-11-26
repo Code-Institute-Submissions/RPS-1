@@ -3,3 +3,20 @@ html {
     padding: 0;
     border: none;
 }
+body{
+    font-family: 'Merriweather', serif;
+    color:#1a1a1a; 
+    text-align: center;
+}
+button  {
+    font-size: 30px;
+    margin: 30px;
+}
+.game {
+    display: flex;
+    margin: 40px;
+   
+}
+
+
+
